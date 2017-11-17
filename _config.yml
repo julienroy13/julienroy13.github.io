@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Julien Roy
 description: Master's student in Deep Learning
-background: images/blue.jpg
+image:
+  background: images/blue.jpg
