@@ -10,6 +10,8 @@ Game of Life
 
 Swarm Intelligence (future project)
 
-### Machine Learning
+Genetic Algorithms (future project)
+
+### Deep Learning
 
 Deep Image Analogy
