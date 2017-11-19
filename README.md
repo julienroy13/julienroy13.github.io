@@ -12,7 +12,3 @@ Deep Image Analogy
 ### Random Stuff
 
 Game of Life
-
-Swarm Intelligence (future project)
-
-Genetic Algorithms (future project)
